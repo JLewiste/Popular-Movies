@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="added_to_favorites">Added to Favorite Movies</string>
+    <string name="removed_from_favorites">Removed from Favorite Movies</string>
+
+    <string name="menu_sort">Sort</string>
+    <string name="menu_popularity">Most Popular</string>
+    <string name="menu_rating">Best Rated</string>
+    <string name="menu_favorite">Favorite</string>
+
+    <string name="bookmark_favorites">Favorites</string>
+
+    <string name="rating">Movie Rating</string>
+    <string name="release_date">Release Date</string>
+
+    <string name="details">DETAILS:</string>
+    <string name="trailers">MOVIE TRAILERS:</string>
+    <string name="reviews">USER REVIEWS:</string>
+
+    <string name="my_api_key">PLEASE INSERT YOUR API KEY HERE!</string>
+
+
+</resources>
